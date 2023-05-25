@@ -4,7 +4,6 @@ import React from "react";
 const index = () => {
   return (
     <div>
-      text
       <Login />
     </div>
   );
