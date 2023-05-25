@@ -1,0 +1,21 @@
+body,
+html {
+  font-family: "Kanit", sans-serif;
+}
+
+@font-face {
+  font-family: "Kanit";
+  src: local("Kanit"), url(/font/Kanit/Kanit-Light.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Kanit";
+  font-weight: 900;
+  src: local("Kanit"), url(/font/Kanit/Kanit-Black.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Kanit";
+  font-weight: 900;
+  src: local("Kanit"), url(/font/Kanit/Kanit-Thin.ttf) format("truetype");
+}

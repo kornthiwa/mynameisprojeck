@@ -1,0 +1,14 @@
+@import "./font.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-button {
+  font-family: "Kanit";
+  font-size: 16px;
+}
+
+.text-page {
+  font-family: "Kanit";
+  font-size: 22px;
+}
